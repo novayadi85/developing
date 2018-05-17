@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "siteloom-app",
+  "private_key_id": "7480c116c7976c40713cb730225f2ae17f360231",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC23PNX54tHEkEL\nc4VIbO8N0oXwV59YYlf+b7wsQA47xFVVQwAzEGyB9SEDyj2XXzho8ZY6WKkXTvYS\nTaVTUNgE4HB4ZECTPFipn5C70WKGwb8SnzKu3YBDV50CiIuWfPLnP4JivRhFZAWa\nita/E2iJ7CwISVLQnYY3tD5eTzukiUVGnKoBFvP0Zirh0iu1y5sFeeQxzzPuQztk\nQWSvbUHya43SPiHmML4HCWmeF+F6y/bCizCGDDWEs3kuHAGaRrdn7U7iZK7xYdoQ\npRMmWcZ2v7YCzwb6CDSDL9u1bdTryFiSBkymarjRC5BAarhhrKCS4dYOBn6gaDWE\nmGdYOuYfAgMBAAECggEALlu0a2AdbI6ho8wNCY/oSMpKv2QPVwJTiYL9IwC4Owmq\nkntyZP+wan/g90uBssrmi6BXdAI/F9QiSQCbPZR8tzvI95R+1HTTi2kS8bKC9mPO\n02M9n5wy5J+lA9vm+2dA00REA1EqAol5bDTvfTBn67NOdGlWT+HngV62AwW2Op9O\nTB5oQ+v4MVTBRXbnLCLjF9h2trdCBR21LOuRAdoxjNMGGjMyCiG9qdPdhv88TUNx\nQ2DANFHooi3JPRTUfDwzFUrQPet3rmGYIj1Lcw8gBWuT9VOMy8jF3nXzjLLmw/I0\nSvqksxLUenagFT6ZGRBLR/knlPLMSdTs1PmfucR2WQKBgQDoxAHFvQGS1T9xR6nP\nwQZz07z+iFRz3TTqHrol85+NpFVheD6rP0Vs2TUbDmR/krnhz15uTA70UlTWtR/o\n7PBqJOemQYrXyd40LPyM7CGiSROjfKjBPvBV7/C0jiyTKYiMAVrluDQvfl5GGmXI\n4LJN3rGMfU9XCMGe3OrL2zoPxwKBgQDJHcFKbs6RsQWSl8Y+xbheUkOGjU5VGNFz\nUmH7Oz3sh4UHZDd3/MzjlkIVxMsdPWHZjc/Ezmo835cXeCTZoiHqqC+4/vgIBCPy\ngGZL/ojNWjNN9nW/AvTGW4iG2f25IPDh1VZYjSIO3ocxLHzqBhFsIYqztgNOYW8A\nM/CfU50m6QKBgQCbcToVyXDhk9N4XPlEKo2akE5oVLbBYXpS1w5NBfMJbjMuklSX\nm/tLA4r5dJUctOm5qPhRBC4Ab3MEp5SVwpWS7O5eEusbzE293kUR/yc+7zpUNY2k\n79kkKsY+bavK4zOy+7yuKGOBTAy9GCfdDGFGq286ePyhDNHwu2t5k/+kRQKBgGcE\niNg5vjI+vR4EBJZu7SvTc6dehntshQ1Pa8Um6WdZW7kXipo5sjH568v+zBQkNxUb\nYQvst9qKpXhuIGIifMEYeamHYUGp7UfwoXXX4fdedt0+m73GI9/fTyXUT/UefIUR\npHMjiAiZ0CJOKYYuqYn7/HJlj3f8zMEL2fui9uLRAoGBAN3xjAmuHusrDWQMMXXQ\nA/pAEpjnlKA76wIf3eQ2ZfHZDl/NamkHITdjJgOH+C8s6iqdqgdzmYPAOM2RIXjN\nckgOMSJD5dheI8qOQF93iQZ/TmzgY5ii3/HKK7ulqlzjfybZxu2mYuEXxe9hVJmO\nH+mXgwAsqbIy3988+siftsXk\n-----END PRIVATE KEY-----\n",
+  "client_email": "siteloom-app@appspot.gserviceaccount.com",
+  "client_id": "109841038599004654784",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/siteloom-app%40appspot.gserviceaccount.com"
+}

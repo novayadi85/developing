@@ -1,0 +1,6 @@
+{
+    "require": {
+        "keboola/csv": "^1.4",
+        "phpoffice/phpexcel": "^1.8"
+    }
+}

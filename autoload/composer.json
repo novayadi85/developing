@@ -1,0 +1,20 @@
+{
+    "name": "yuanstudio/shopadjust",
+    "description": "Shop Explorer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Komang Novayadi",
+            "email": "novayadi85@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "yuanstudio\\shopifyHack\\": "src",
+			"App\\": "app/"
+        }
+    }
+}
